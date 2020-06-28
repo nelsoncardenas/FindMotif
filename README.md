@@ -5,6 +5,7 @@ Se analizará dormancy survival regulator (DosR). Este factor de transcripción 
 
 Es posible ejecutar desde Google Colab (también basándose en el archivo "DorR.txt"). Se encuentran dos versiones del código.
 *   **MotifsDetection.ipynb**: versión básica que solo usa greedy search.
-*   **MotifsDetection_v2.ipynb**: al greedy search se le adicionan seudoconteos para resolver el error de las frecuencias iguales a cero. Este método está inspirado en la aplicación de la ley de Cromwell y los seudoconteos de Laplace.
+*   **MotifsDetection_v2.ipynb**: al greedy search se le adicionan seudoconteos para resolver el error de las frecuencias iguales a cero. Este método está inspirado en la aplicación de la ley de Cromwell y los seudoconteos de Laplace
+*   **MotifsDetection_v2.ipynb**: emplea los seudoconteos y una búsqueda aleatoria. Hay nuclétidos más frecuentes, así que un examen aleatorio tiene más posibilidades de encontrar iterativamente motifs cada vez mejores.
 
 
