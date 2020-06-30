@@ -1,0 +1,161 @@
+{
+   "rms": 1.4,
+   "type_mag": "M",
+   "moment_tensor": [
+       {
+           "seiscomp": "",
+           "swift": [
+               {
+                   "info": [
+                       {
+                           "info": "https://bdrsnc.sgc.gov.co/sismologia1/sismologia/focal_seiscomp_3/swift_sol.php?id_sismo=SGC2020mklavo"
+                       }
+                   ],
+                   "moment_tensor": [
+                       {
+                           "Myy": "1.2689e+16",
+                           "Myz": "4.5005e+16",
+                           "Mxx": "2.1863e+16",
+                           "Mxy": "2.8179e+16",
+                           "Mzx": "1.1031e+16",
+                           "Mzz": "-3.4558e+16"
+                       }
+                   ],
+                   "img": [
+                       {
+                           "img": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mt/swift/beachball.png"
+                       }
+                   ],
+                   "nodal_planes": [
+                       {
+                           "NP1": [
+                               {
+                                   "Strike": 337,
+                                   "Rake": -67,
+                                   "Dip": 71
+                               }
+                           ],
+                           "NP2": [
+                               {
+                                   "Strike": 104,
+                                   "Rake": -139,
+                                   "Dip": 29
+                               }
+                           ]
+                       }
+                   ],
+                   "principal_axes": [
+                       {
+                           "P": [
+                               {
+                                   "Plg": "22",
+                                   "Azm": "49",
+                                   "Val": null
+                               }
+                           ],
+                           "T": [
+                               {
+                                   "Plg": "57",
+                                   "Azm": "-82",
+                                   "Val": null
+                               }
+                           ],
+                           "N": [
+                               {
+                                   "Plg": "21",
+                                   "Azm": "149",
+                                   "Val": null
+                               }
+                           ]
+                       }
+                   ],
+                   "location_centroid": [
+                       {
+                           "fecha": "2020-06-24 15:38:00",
+                           "Mw": 5.1,
+                           "longitude": -77.9,
+                           "unity": "Nm",
+                           "depth": 170,
+                           "M0": "6.2110e+16",
+                           "latitude": -1.6
+                       }
+                   ]
+               }
+           ],
+           "isola": ""
+       }
+   ],
+   "time_UTC": "2020-06-24 15:38",
+   "mapURL": "https://sismos.sgc.gov.co/events/SGC2020mklavo/20200624155329-map.gif",
+   "depth1": 173,
+   "focal_mechanism2": "",
+   "felt_report": "",
+   "stations_count": 26,
+   "plURL": "",
+   "id": "SGC2020mklavo",
+   "latitude1": -1.81,
+   "arURL": "",
+   "agency": "IGEPN",
+   "acelerations": "https://sismos.sgc.gov.co/events/SGC2020mklavo/graphics/sender.html",
+   "depth": "173 km",
+   "longitude": -77.85,
+   "latitude": -1.81,
+   "status": "Manual",
+   "description": "Pastaza, Ecuador",
+   "closer_towns": "Simón Bolívar (Mushullacta) (Pastaza, Ecuador) a 10 km, 16 de Agosto (Morona Santiago, Ecuador) a 11 km, Sangay (Morona Santiago, Ecuador) a 15 km",
+   "longitude1": -77.85,
+   "gap": "220",
+   "descURL": "",
+   "last_modified": "2020-06-24 15:53:29",
+   "mag": 4.7,
+   "quakeml": "https://sismos.sgc.gov.co/events/SGC2020mklavo/SGC2020mklavo.kml",
+   "shakemapURLS": [
+       {
+           "rock_grid_xml_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/rock_grid.xml.zip",
+           "tvmap_bare_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/tvmap_bare.jpg",
+           "grid_xml_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/grid.xml.zip",
+           "stationlist_txt": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/stationlist.txt",
+           "shape_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/shape.zip",
+           "stationlist_json": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/stationlist.json",
+           "stations_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/stations.kmz",
+           "metadata_txt": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/metadata.txt",
+           "tvguide_txt": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/tvguide.txt",
+           "cont_pga_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/cont_pga.kmz",
+           "polygons_mi_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/polygons_mi.kmz",
+           "epicenter_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/epicenter.kmz",
+           "tvmap_bare_ps_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/tvmap_bare.ps.zip",
+           "urat_pga_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/urat_pga.jpg",
+           "stationlist_xml": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/stationlist.xml",
+           "tvmap_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/tvmap.jpg",
+           "intensity_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/intensity.jpg",
+           "overlay_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/overlay.kmz",
+           "cont_pga_json": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/cont_pga.json",
+           "event_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/SGC2020mklavo.kmz",
+           "pgv_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/pgv.jpg",
+           "cont_pgv_json": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/cont_pgv.json",
+           "info_xml": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/info.xml",
+           "event_kml": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/SGC2020mklavo.kml",
+           "ii_overlay_png": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/ii_overlay.png",
+           "ii_thumbnail_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/ii_thumbnail.jpg",
+           "grid_xyz_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/grid.xyz.zip",
+           "tvmap_ps_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/tvmap.ps.zip",
+           "uncertainty_xml_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/uncertainty.xml.zip",
+           "intensity_ps_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/intensity.ps.zip",
+           "urat_pga_ps_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/urat_pga.ps.zip",
+           "pgv_ps_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/pgv.ps.zip",
+           "grid_xml": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/grid.xml",
+           "sd_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/sd.jpg",
+           "pga_ps_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/pga.ps.zip",
+           "pga_jpg": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/pga.jpg",
+           "event_txt": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/event.txt",
+           "cont_pgv_kmz": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/cont_pgv.kmz",
+           "raster_zip": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mmi/raster.zip"
+       }
+   ],
+   "shakemap": "II",
+   "arrivals": "",
+   "focal_mechanism": "",
+   "drURL": "",
+   "time_local": "2020-06-24 10:38",
+   "traces": ""
+}
